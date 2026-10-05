@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="284" viewBox="0 0 640 284" font-family="Arial, Helvetica, sans-serif">
+<rect width="640" height="284" fill="white"/>
+<text x="20" y="22" font-size="17" font-weight="bold" fill="#16314f">Fruit baskets sold (each 🍎 = 10 baskets)</text>
+<text x="30" y="61" font-size="15" fill="#16314f">Monday</text>
+<g transform="translate(180,55) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(210,55) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(240,55) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<text x="30" y="107" font-size="15" fill="#16314f">Tuesday</text>
+<g transform="translate(180,101) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(210,101) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(240,101) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(270,101) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<text x="30" y="153" font-size="15" fill="#16314f">Wednesday</text>
+<g transform="translate(180,147) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(210,147) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<text x="30" y="199" font-size="15" fill="#16314f">Thursday</text>
+<g transform="translate(180,193) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(210,193) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(240,193) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(270,193) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<g transform="translate(300,193) scale(1.0833333333333333)">
+  <path d="M0,-2 C-7,-8 -12,-2 -12,5 C-12,12 -6,16 0,16 C6,16 12,12 12,5 C12,-2 7,-8 0,-2 Z" fill="#e0574c" stroke="#9c2b22" stroke-width="1"/>
+  <path d="M0,-2 C1,-6 4,-8 7,-9" fill="none" stroke="#6b4423" stroke-width="1.6"/>
+  <path d="M1,-7 C4,-9 6,-7 5,-5 C3,-5 1,-6 1,-7 Z" fill="#3f8f3f"/>
+</g>
+<line x1="20" y1="215" x2="620" y2="215" stroke="none"/>
+</svg>
