@@ -38,15 +38,7 @@ curriculum and need dedicated practice.
 | Week | Topic | Folder |
 |---|---|---|
 | 9 | Patterns, Analogy & Classification, Alphabet Test, Coding–Decoding | `assignments/09-reasoning-patterns-coding/` ✅ |
-| 10 | Ranking Test, Direction Sense, Days & Dates, Mirror Images, Embedded Figures | `assignments/10-reasoning-direction-figures/` ✅ |
-
-> Note on figure-based items (mirror images, embedded figures, geometrical
-> solids): these need actual diagrams. The text-based assignments here
-> substitute equivalent letter/number/logic puzzles for the figure-reasoning
-> skills that *can* be done in text (series, coding, ranking, direction,
-> calendar), and flag the diagram-only question types separately so they can
-> be sourced from an image-capable worksheet generator or workbook —
-> see the note at the bottom of `assignments/README.md`.
+| 10 | Ranking Test, Direction Sense, Days & Dates, Mirror Images, Embedded Figures, Geometrical Solids | `assignments/10-reasoning-direction-figures/` ✅ (24 Q — Part A text-based, Part B diagram-based with SVG figures) |
 
 ## Phase 3 — Achievers / HOTS + Full Papers (Weeks 11–12)
 

@@ -1,7 +1,6 @@
 # Week 8 — Data Handling
 
-Tally marks, pictographs, and bar-graph-style tables. 15 questions,
-4-option MCQ, untimed.
+Tally marks, pictographs, and bar graphs. 15 questions, 4-option MCQ, untimed.
 
 ---
 
@@ -14,15 +13,10 @@ A) 4  B) 5  C) 6  D) 10
 **Q3.** A count is recorded as 3 full tally groups and 2 extra strokes. What number does this represent?
 A) 15  B) 17  C) 19  D) 20
 
-The table below shows the number of fruit baskets sold by a shop over four
-days, where **each 🍎 symbol = 10 baskets**:
+The pictograph below shows the number of fruit baskets sold by a shop over
+four days:
 
-| Day | Symbols |
-|---|---|
-| Monday | 🍎🍎🍎 |
-| Tuesday | 🍎🍎🍎🍎 |
-| Wednesday | 🍎🍎 |
-| Thursday | 🍎🍎🍎🍎🍎 |
+![Pictograph: fruit baskets sold Monday to Thursday, each apple symbol equals 10 baskets](images/pictograph-fruits.svg)
 
 **Q4.** How many baskets were sold on Tuesday?
 A) 30  B) 40  C) 35  D) 45
@@ -33,15 +27,9 @@ A) 20  B) 25  C) 30  D) 35
 **Q6.** What is the total number of baskets sold from Monday to Thursday?
 A) 120  B) 130  C) 140  D) 150
 
-The table below shows marks scored by 5 students in a Maths test (out of 50):
+The bar graph below shows marks scored by 5 students in a Maths test (out of 50):
 
-| Student | Marks |
-|---|---|
-| Aman | 40 |
-| Priya | 35 |
-| Rohan | 45 |
-| Simmi | 30 |
-| Tina | 50 |
+![Bar graph: marks scored by 5 students out of 50 — Aman 40, Priya 35, Rohan 45, Simmi 30, Tina 50](images/bargraph-marks.svg)
 
 **Q7.** Who scored the highest marks?
 A) Aman  B) Priya  C) Rohan  D) Tina
