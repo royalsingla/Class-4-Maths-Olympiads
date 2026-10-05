@@ -30,6 +30,8 @@ sample-papers/
   sample-paper-01-answer-key.md … sample-paper-06-answer-key.md
 pdf/
   Print-ready PDF of every file above, mirroring the same folder structure
+tools/
+  generate-pdfs.js       Regenerates pdf/ from the Markdown (see below)
 ```
 
 ## How to use this
@@ -43,6 +45,24 @@ pdf/
    mark your own work.
 4. Sample papers are meant to be done **strictly timed** (60 minutes, no
    calculator) to build real exam pace.
+
+## Regenerating PDFs
+
+If you edit any `.md` file, its PDF under `pdf/` won't update itself —
+rebuild all of them with:
+
+```
+cd tools
+npm install
+npx playwright install chromium   # one-time, downloads a local Chromium
+node generate-pdfs.js
+```
+
+It auto-discovers every `.md` file in the repo (title comes from each
+file's first `# heading`), so a new assignment or sample paper just needs
+to exist — no code changes required. It also resolves Markdown images
+(e.g. the SVG diagrams under `assignments/*/images/`) relative to the
+source file they're referenced from.
 
 ## Status
 
