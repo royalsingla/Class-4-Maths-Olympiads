@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="200" viewBox="0 0 220 200" font-family="Arial, Helvetica, sans-serif"><rect width="220" height="200" fill="white"/><line x1="40" y1="30" x2="160" y2="30" stroke="#a9b7c9" stroke-width="2"/>
+<line x1="40" y1="30" x2="40" y2="150" stroke="#a9b7c9" stroke-width="2"/>
+<line x1="40" y1="90" x2="160" y2="90" stroke="#a9b7c9" stroke-width="2"/>
+<line x1="100" y1="30" x2="100" y2="150" stroke="#a9b7c9" stroke-width="2"/>
+<line x1="40" y1="150" x2="160" y2="150" stroke="#a9b7c9" stroke-width="2"/>
+<line x1="160" y1="30" x2="160" y2="150" stroke="#a9b7c9" stroke-width="2"/>
+<circle cx="40" cy="30" r="3" fill="#5a6b7d"/>
+<circle cx="40" cy="90" r="3" fill="#5a6b7d"/>
+<circle cx="40" cy="150" r="3" fill="#5a6b7d"/>
+<circle cx="100" cy="30" r="3" fill="#5a6b7d"/>
+<circle cx="100" cy="90" r="3" fill="#5a6b7d"/>
+<circle cx="100" cy="150" r="3" fill="#5a6b7d"/>
+<circle cx="160" cy="30" r="3" fill="#5a6b7d"/>
+<circle cx="160" cy="90" r="3" fill="#5a6b7d"/>
+<circle cx="160" cy="150" r="3" fill="#5a6b7d"/><circle cx="40" cy="30" r="8" fill="#2b4c7e"/><polygon points="160.0,140.0 162.6,146.4 169.5,146.9 164.3,151.4 165.9,158.1 160.0,154.5 154.1,158.1 155.7,151.4 150.5,146.9 157.4,146.4" fill="#f4d35e" stroke="#b8960a" stroke-width="1.5"/></svg>

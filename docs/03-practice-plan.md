@@ -85,6 +85,10 @@ already built.)
 ## Optional extension
 
 Once the 12 weeks and all 6 sample papers are comfortably done (consistently
-≥32/40, i.e. Level‑2 cutoff range), move to Math Kangaroo-style puzzle
-questions for an extra spatial-reasoning/creative-problem-solving stretch —
-see the note in `01-syllabus.md` §3.
+≥32/40, i.e. Level‑2 cutoff range), move to
+[`assignments/12-math-kangaroo-stretch/`](../assignments/12-math-kangaroo-stretch/assignment.md) ✅ —
+15 Math Kangaroo-style puzzle questions (shape counting, mirror images,
+balance-scale logic, grid paths, cube nets, and classic brain-teasers like
+the "snail in the well") in 3 difficulty tiers, for an extra
+spatial-reasoning/creative-problem-solving stretch beyond anything the core
+plan covers. See the note in `01-syllabus.md` §3.

@@ -22,11 +22,15 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `09-reasoning-patterns-coding/` | Number/figure patterns, analogy, classification, alphabet test, coding–decoding | ✅ Built |
 | `10-reasoning-direction-figures/` | Ranking, direction sense, days & dates, mirror images, embedded figures, geometrical solids | ✅ Built (24 Q) |
 | `11-achievers-hots/` | Multi-step HOTS problems across all topics above | ✅ Built |
+| `12-math-kangaroo-stretch/` | **Optional** — Math Kangaroo-style puzzles (shape counting, mirror images, logic, cube nets) | ✅ Built (15 Q, 3 tiers) |
 
-All 11 folders are built in the same two-file (`assignment.md` +
-`answer-key.md`) shape, 15 questions each — except `10-reasoning-direction-figures/`,
-which has 24 (15 text-based + 9 diagram-based), and `08-data-handling/` and
-`10-reasoning-direction-figures/`, which also ship an `images/` folder of SVG
+Folders `01`–`11` are the core 12-week plan, built in the same two-file
+(`assignment.md` + `answer-key.md`) shape, 15 questions each — except
+`10-reasoning-direction-figures/`, which has 24 (15 text-based +
+9 diagram-based). `12-math-kangaroo-stretch/` is the optional extension
+described in `docs/03-practice-plan.md`, not part of the core plan or any
+Indian olympiad's syllabus. `08-data-handling/`, `10-reasoning-direction-figures/`,
+and `12-math-kangaroo-stretch/` each ship an `images/` folder of SVG
 diagrams referenced from their `assignment.md`.
 
 ## Diagram-based question types
@@ -49,3 +53,9 @@ SVG diagram for each question:
 `08-data-handling/images/` similarly has a real SVG pictograph and bar
 graph (rather than an emoji/markdown-table stand-in) for its data-handling
 questions.
+
+`12-math-kangaroo-stretch/images/` has 7 more SVGs for its puzzle
+questions — shape-counting figures, a mirror-image puzzle (same
+guaranteed-correct transform technique as above), a balance-scale
+illustration, a grid for path-counting, a shaded-fraction figure, and a
+labelled cube net.
