@@ -12,21 +12,19 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | Folder | Topic | Status |
 |---|---|---|
 | `01-number-sense/` | Place value, number names, ordering, rounding, Roman numerals | ✅ Built |
-| `02-four-operations/` | Addition, subtraction, multiplication, division (multi-digit + word problems) | Planned |
-| `03-factors-multiples-patterns/` | Factors, multiples, number patterns | Planned |
-| `04-fractions-decimals/` | Comparing & equivalent fractions, simple decimals | Planned |
-| `05-measurement-money/` | Length, weight, capacity, money, conversions | Planned |
-| `06-time-calendar/` | Clock time, duration, calendar | Planned |
-| `07-geometry-perimeter-area/` | Shapes, symmetry, perimeter, basic area | Planned |
-| `08-data-handling/` | Tally marks, pictographs, bar graphs | Planned |
-| `09-reasoning-patterns-coding/` | Number/figure patterns, analogy, classification, alphabet test, coding–decoding | Planned |
-| `10-reasoning-direction-figures/` | Ranking, direction sense, days & dates | Planned |
-| `11-achievers-hots/` | Multi-step HOTS problems across all topics above | Planned |
+| `02-four-operations/` | Addition, subtraction, multiplication, division (multi-digit + word problems) | ✅ Built |
+| `03-factors-multiples-patterns/` | Factors, multiples, number patterns | ✅ Built |
+| `04-fractions-decimals/` | Comparing & equivalent fractions, simple decimals | ✅ Built |
+| `05-measurement-money/` | Length, weight, capacity, money, conversions | ✅ Built |
+| `06-time-calendar/` | Clock time, duration, calendar | ✅ Built |
+| `07-geometry-perimeter-area/` | Shapes, symmetry, perimeter, basic area | ✅ Built |
+| `08-data-handling/` | Tally marks, pictographs, bar graphs | ✅ Built |
+| `09-reasoning-patterns-coding/` | Number/figure patterns, analogy, classification, alphabet test, coding–decoding | ✅ Built |
+| `10-reasoning-direction-figures/` | Ranking, direction sense, days & dates | ✅ Built |
+| `11-achievers-hots/` | Multi-step HOTS problems across all topics above | ✅ Built |
 
-"Planned" folders are specified in `docs/03-practice-plan.md` (topic +
-week) and follow the exact question-count/format of `01-number-sense/` —
-add them in the same two-file (`assignment.md` + `answer-key.md`) shape as
-you work through the plan.
+All 11 folders are built in the same two-file (`assignment.md` +
+`answer-key.md`) shape, 15 questions each.
 
 ## A note on diagram-based question types
 
