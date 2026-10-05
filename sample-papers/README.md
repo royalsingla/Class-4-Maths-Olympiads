@@ -29,13 +29,14 @@ or cover the answer key and do it under a clock) and
 | Paper | Status | Scheduled (per `docs/03-practice-plan.md`) |
 |---|---|---|
 | Sample Paper 1 | ✅ Built | Week 11, untimed review pass |
-| Sample Paper 2 | Planned | Week 12, Day 1 |
-| Sample Paper 3 | Planned | Week 12, Day 3 |
-| Sample Paper 4 | Planned | Week 12, Day 5 |
-| Sample Paper 5 | Planned | Week 12, Day 7 |
-| Sample Paper 6 | Planned | Week 12, Day 9 — Level‑2 difficulty step-up |
+| Sample Paper 2 | ✅ Built | Week 12, Day 1 |
+| Sample Paper 3 | ✅ Built | Week 12, Day 3 |
+| Sample Paper 4 | ✅ Built | Week 12, Day 5 |
+| Sample Paper 5 | ✅ Built | Week 12, Day 7 — Level‑1 dress rehearsal |
+| Sample Paper 6 | ✅ Built | Week 12, Day 9 — Level‑2 difficulty step-up |
 
-Build Papers 2–6 in the same 35-question/4-section shape as Paper 1,
-drawing questions from whichever `assignments/` topics are due that week so
-the sample papers reinforce material just practised rather than introducing
-unseen topics cold.
+All 6 papers follow the same 35-question/4-section shape. Papers 2–5 are
+comparable Level‑1 difficulty (each drawing on different topic mixes so
+they don't repeat); Paper 6 is deliberately harder throughout — bigger
+numbers, multi-step word problems even in Sections 2–3, and tougher
+Achievers questions — to mirror SOF IMO Level 2.

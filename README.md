@@ -22,12 +22,14 @@ docs/
   02-exam-pattern.md     Marks, timing, levels, negative marking, cutoffs
   03-practice-plan.md    12-week schedule: what to practice, and when
 assignments/
-  README.md              Naming convention + full topic list (Weeks 1–12)
-  01-number-sense/       Worked example: assignment + answer key
+  README.md              Naming convention + full topic list (Weeks 1–11)
+  01-number-sense/ … 11-achievers-hots/   11 topic worksheets, each with an answer key
 sample-papers/
   README.md              How the full-length papers map to the real pattern
-  sample-paper-01.md          Full 35-question paper (IMO pattern, 40 marks, 60 min)
-  sample-paper-01-answer-key.md
+  sample-paper-01.md … sample-paper-06.md     6 full 35-question papers (IMO pattern, 40 marks, 60 min)
+  sample-paper-01-answer-key.md … sample-paper-06-answer-key.md
+pdf/
+  Print-ready PDF of every file above, mirroring the same folder structure
 ```
 
 ## How to use this
@@ -44,7 +46,7 @@ sample-papers/
 
 ## Status
 
-Scaffolding, syllabus/pattern research, and the 12-week plan are complete.
-Week 1's assignment and Sample Paper 1 are built out in full as the
-reference template; remaining weeks' assignments and Sample Papers 2–6
-follow the same template and are tracked in `docs/03-practice-plan.md`.
+Complete. Syllabus/pattern research, the 12-week plan, all 11 weekly
+assignments (Weeks 1–11), and all 6 full-length sample papers are built
+out — each with an answer key, and each arithmetic/logic answer verified
+programmatically. PDF versions of every file are in `pdf/`.

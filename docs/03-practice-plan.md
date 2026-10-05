@@ -17,14 +17,14 @@ self-check against the answer key.
 
 | Week | Topic | Folder |
 |---|---|---|
-| 1 | Number Sense & Numerals (place value, expanded form, ordering, rounding, Roman numerals) | `assignments/01-number-sense/` ✅ built |
-| 2 | Four Operations (+ − × ÷, multi-digit, word problems) | `assignments/02-four-operations/` |
-| 3 | Factors, Multiples & Number Patterns | `assignments/03-factors-multiples-patterns/` |
-| 4 | Fractions & Decimals (comparing, equivalent, simple operations) | `assignments/04-fractions-decimals/` |
-| 5 | Measurement: Length, Weight, Capacity + Money | `assignments/05-measurement-money/` |
-| 6 | Time & Calendar | `assignments/06-time-calendar/` |
-| 7 | Geometry (shapes, lines, symmetry) + Perimeter & Area | `assignments/07-geometry-perimeter-area/` |
-| 8 | Data Handling (tally marks, pictographs, bar graphs) | `assignments/08-data-handling/` |
+| 1 | Number Sense & Numerals (place value, expanded form, ordering, rounding, Roman numerals) | `assignments/01-number-sense/` ✅ |
+| 2 | Four Operations (+ − × ÷, multi-digit, word problems) | `assignments/02-four-operations/` ✅ |
+| 3 | Factors, Multiples & Number Patterns | `assignments/03-factors-multiples-patterns/` ✅ |
+| 4 | Fractions & Decimals (comparing, equivalent, simple operations) | `assignments/04-fractions-decimals/` ✅ |
+| 5 | Measurement: Length, Weight, Capacity + Money | `assignments/05-measurement-money/` ✅ |
+| 6 | Time & Calendar | `assignments/06-time-calendar/` ✅ |
+| 7 | Geometry (shapes, lines, symmetry) + Perimeter & Area | `assignments/07-geometry-perimeter-area/` ✅ |
+| 8 | Data Handling (tally marks, pictographs, bar graphs) | `assignments/08-data-handling/` ✅ |
 
 **Weekly routine:** attempt the assignment untimed first; mark it against
 the answer key; redo only the missed questions 2 days later to confirm the
@@ -37,22 +37,14 @@ curriculum and need dedicated practice.
 
 | Week | Topic | Folder |
 |---|---|---|
-| 9 | Patterns, Analogy & Classification, Alphabet Test, Coding–Decoding | `assignments/09-reasoning-patterns-coding/` |
-| 10 | Ranking Test, Direction Sense, Days & Dates, Mirror Images, Embedded Figures | `assignments/10-reasoning-direction-figures/` |
-
-> Note on figure-based items (mirror images, embedded figures, geometrical
-> solids): these need actual diagrams. The text-based assignments here
-> substitute equivalent letter/number/logic puzzles for the figure-reasoning
-> skills that *can* be done in text (series, coding, ranking, direction,
-> calendar), and flag the diagram-only question types separately so they can
-> be sourced from an image-capable worksheet generator or workbook —
-> see the note at the bottom of `assignments/README.md`.
+| 9 | Patterns, Analogy & Classification, Alphabet Test, Coding–Decoding | `assignments/09-reasoning-patterns-coding/` ✅ |
+| 10 | Ranking Test, Direction Sense, Days & Dates, Mirror Images, Embedded Figures, Geometrical Solids | `assignments/10-reasoning-direction-figures/` ✅ (24 Q — Part A text-based, Part B diagram-based with SVG figures) |
 
 ## Phase 3 — Achievers / HOTS + Full Papers (Weeks 11–12)
 
 | Week | Activity |
 |---|---|
-| 11 | `assignments/11-achievers-hots/` — 2-and-3-step mixed problems pulling from every Phase‑1 topic. Then attempt **Sample Paper 1** (untimed, open-book) to find the gaps — see `sample-papers/README.md`. |
+| 11 | `assignments/11-achievers-hots/` ✅ — 2-and-3-step mixed problems pulling from every Phase‑1 topic. Then attempt **Sample Paper 1** (untimed, open-book) to find the gaps — see `sample-papers/README.md`. |
 | 12 | Attempt **Sample Papers 2–6**, each **strictly timed to 60 minutes**, one every 1–2 days. After each paper, log every wrong answer in an error log (topic + why it was wrong) before moving to the next paper. |
 
 ### Sample paper schedule (Phase 3)
@@ -66,26 +58,29 @@ curriculum and need dedicated practice.
 | Sample Paper 5 | Week 12, Day 7 | Timed (60 min) — treat as Level‑1 dress rehearsal |
 | Sample Paper 6 | Week 12, Day 9 | Timed (60 min), Level‑2 difficulty step-up, for students likely to qualify |
 
-Only Sample Paper 1 is built out in this repo so far (full 35 questions,
-40 marks, answer key) — see `sample-papers/README.md` for the plan to add
-2–6 in the same format.
+All 6 sample papers are built out (full 35 questions, 40 marks, answer key
+each) — see `sample-papers/README.md`.
 
 ## Progress tracker
 
 Copy this checklist and tick off as you go:
 
-- [ ] Week 1 — Number Sense
-- [ ] Week 2 — Four Operations
-- [ ] Week 3 — Factors, Multiples & Patterns
-- [ ] Week 4 — Fractions & Decimals
-- [ ] Week 5 — Measurement & Money
-- [ ] Week 6 — Time & Calendar
-- [ ] Week 7 — Geometry, Perimeter & Area
-- [ ] Week 8 — Data Handling
-- [ ] Week 9 — Reasoning: Patterns/Analogy/Coding
-- [ ] Week 10 — Reasoning: Ranking/Direction/Calendar
-- [ ] Week 11 — Achievers/HOTS + Sample Paper 1
-- [ ] Week 12 — Sample Papers 2–6 (timed)
+- [ ] Week 1 — Number Sense *(assignment ready)*
+- [ ] Week 2 — Four Operations *(assignment ready)*
+- [ ] Week 3 — Factors, Multiples & Patterns *(assignment ready)*
+- [ ] Week 4 — Fractions & Decimals *(assignment ready)*
+- [ ] Week 5 — Measurement & Money *(assignment ready)*
+- [ ] Week 6 — Time & Calendar *(assignment ready)*
+- [ ] Week 7 — Geometry, Perimeter & Area *(assignment ready)*
+- [ ] Week 8 — Data Handling *(assignment ready)*
+- [ ] Week 9 — Reasoning: Patterns/Analogy/Coding *(assignment ready)*
+- [ ] Week 10 — Reasoning: Ranking/Direction/Calendar *(assignment ready)*
+- [ ] Week 11 — Achievers/HOTS + Sample Paper 1 *(assignment + paper ready)*
+- [ ] Week 12 — Sample Papers 2–6, timed *(all 6 papers ready)*
+
+(The checkboxes above track *your* progress working through the plan, not
+whether the content exists — every assignment and sample paper listed is
+already built.)
 
 ## Optional extension
 
