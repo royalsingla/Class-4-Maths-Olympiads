@@ -22,8 +22,9 @@ docs/
   02-exam-pattern.md     Marks, timing, levels, negative marking, cutoffs
   03-practice-plan.md    12-week schedule: what to practice, and when
 assignments/
-  README.md              Naming convention + full topic list (Weeks 1–11)
-  01-number-sense/ … 11-achievers-hots/   11 topic worksheets, each with an answer key
+  README.md              Naming convention + full topic list (Weeks 1–11 + optional)
+  01-number-sense/ … 11-achievers-hots/   11 core topic worksheets, each with an answer key
+  12-math-kangaroo-stretch/                Optional: Math Kangaroo-style puzzle stretch
 sample-papers/
   README.md              How the full-length papers map to the real pattern
   sample-paper-01.md … sample-paper-06.md     6 full 35-question papers (IMO pattern, 40 marks, 60 min)
@@ -69,4 +70,7 @@ source file they're referenced from.
 Complete. Syllabus/pattern research, the 12-week plan, all 11 weekly
 assignments (Weeks 1–11), and all 6 full-length sample papers are built
 out — each with an answer key, and each arithmetic/logic answer verified
-programmatically. PDF versions of every file are in `pdf/`.
+programmatically. PDF versions of every file are in `pdf/`. An optional
+15-question Math Kangaroo-style stretch set
+(`assignments/12-math-kangaroo-stretch/`) is also built, for after the
+core plan is comfortably done.

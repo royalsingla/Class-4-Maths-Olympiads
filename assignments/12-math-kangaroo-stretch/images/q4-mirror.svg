@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482" height="300" viewBox="0 0 482 300" font-family="Arial, Helvetica, sans-serif">
+<rect width="482" height="300" fill="white"/>
+<text x="241.0" y="18" text-anchor="middle" font-size="15" font-weight="bold" fill="#16314f">The dashed line is a mirror.</text>
+<rect x="141.0" y="30" width="200" height="95" fill="#f7f9fc" stroke="#a9b7c9" stroke-width="1.5" rx="4"/>
+<line x1="241.0" y1="30" x2="241.0" y2="125" stroke="#2b4c7e" stroke-width="2" stroke-dasharray="6,5"/>
+<g transform="translate(141.0,30)">
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    </g>
+<text x="241.0" y="149" text-anchor="middle" font-size="15" font-weight="bold" fill="#16314f">Which option correctly completes the mirror image?</text>
+<rect x="20.0" y="169" width="100" height="95" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(20.0,169)">
+
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    
+<g transform="translate(50,0)">
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    </g>
+</g>
+<text x="70.0" y="286" text-anchor="middle" font-size="17" font-weight="bold" fill="#16314f">A</text>
+<rect x="134.0" y="169" width="100" height="95" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(134.0,169)">
+
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    
+<g transform="translate(50,0) translate(0,95) scale(1,-1)">
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    </g>
+</g>
+<text x="184.0" y="286" text-anchor="middle" font-size="17" font-weight="bold" fill="#16314f">B</text>
+<rect x="248.0" y="169" width="100" height="95" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(248.0,169)">
+
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    
+<g transform="translate(100,0) scale(-1,1)">
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    </g>
+</g>
+<text x="298.0" y="286" text-anchor="middle" font-size="17" font-weight="bold" fill="#16314f">C</text>
+<rect x="362.0" y="169" width="100" height="95" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(362.0,169)">
+
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    
+<g transform="translate(50,0) rotate(180,25,47.5)">
+      <line x1="44" y1="85" x2="44" y2="8" stroke="#16314f" stroke-width="3"/>
+      <polygon points="44,8 6,20 44,32" fill="#f7cba4" stroke="#16314f" stroke-width="2"/>
+      <circle cx="26" cy="68" r="7" fill="#9ecbe0" stroke="#16314f" stroke-width="2"/>
+    </g>
+</g>
+<text x="412.0" y="286" text-anchor="middle" font-size="17" font-weight="bold" fill="#16314f">D</text>
+</svg>

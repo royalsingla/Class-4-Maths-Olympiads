@@ -76,8 +76,9 @@ Different format (24 MCQs, 1–5 points by difficulty, no separate reasoning
 section — reasoning is baked into the maths questions themselves) and no
 negative marking either, but a notably higher puzzle/spatial-reasoning
 flavour. Not required for Indian school olympiad prep, but a good stretch
-source once the core plan below is finished — see the "optional extension"
-note at the end of `03-practice-plan.md`.
+source once the core plan below is finished — see
+`assignments/12-math-kangaroo-stretch/` (15 questions, 3 difficulty tiers)
+and the "optional extension" note at the end of `03-practice-plan.md`.
 
 ## Sources
 
