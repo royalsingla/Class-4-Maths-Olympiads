@@ -23,6 +23,9 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `10-reasoning-direction-figures/` | Ranking, direction sense, days & dates, mirror images, embedded figures, geometrical solids | ✅ Built (24 Q) |
 | `11-achievers-hots/` | Multi-step HOTS problems across all topics above | ✅ Built |
 | `12-math-kangaroo-stretch/` | **Optional** — Math Kangaroo-style puzzles (shape counting, mirror images, logic, cube nets) | ✅ Built (15 Q, 3 tiers) |
+| `13-achievers-level2/` | **Level‑2 track** — harder, multi-step HOTS beyond Week 11, for students who've qualified Level 1 | ✅ Built |
+| `14-reasoning-level2/` | **Level‑2 track** — compound logical-reasoning puzzles stacking 2+ clues/rules, beyond Weeks 9–10 | ✅ Built |
+| `15-geometry-level2/` | **Level‑2 track** — compound-shape perimeter & area (paths, frames, cut corners), beyond Week 7 | ✅ Built |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
@@ -32,6 +35,15 @@ described in `docs/03-practice-plan.md`, not part of the core plan or any
 Indian olympiad's syllabus. `08-data-handling/`, `10-reasoning-direction-figures/`,
 and `12-math-kangaroo-stretch/` each ship an `images/` folder of SVG
 diagrams referenced from their `assignment.md`.
+
+Folders `13`–`15` are a **Level‑2 topic track**: for students who've
+qualified Level 1 of the real exam and want harder, topic-focused practice
+rather than just the mixed-topic Level‑2 sample papers (`sample-papers/sample-paper-06.md`
+onward). Same two-file shape, 15 questions each, every answer verified
+programmatically. These three topics were picked because they're where
+Level 2 gets *conceptually* harder, not just numerically bigger — the other
+core topics (number sense, four operations, data handling, etc.) are
+already covered by the harder numbers in the Level‑2 sample papers.
 
 ## Diagram-based question types
 

@@ -25,6 +25,7 @@ assignments/
   README.md              Naming convention + full topic list (Weeks 1–11 + optional)
   01-number-sense/ … 11-achievers-hots/   11 core topic worksheets, each with an answer key
   12-math-kangaroo-stretch/                Optional: Math Kangaroo-style puzzle stretch
+  13-achievers-level2/ … 15-geometry-level2/   Level‑2 topic worksheets (harder, for Round‑1 qualifiers)
 sample-papers/
   README.md              How the full-length papers map to the real pattern
   sample-paper-01.md … sample-paper-09.md     9 full 35-question papers (IMO pattern, 40 marks, 60 min)
@@ -75,4 +76,8 @@ each with an answer key, and each arithmetic/logic answer verified
 programmatically. PDF versions of every file are in `pdf/`. An optional
 15-question Math Kangaroo-style stretch set
 (`assignments/12-math-kangaroo-stretch/`) is also built, for after the
-core plan is comfortably done.
+core plan is comfortably done. Three dedicated **Level‑2 topic
+assignments** (Achievers/HOTS, Logical Reasoning, Geometry — the areas
+where Level 2 gets conceptually harder, not just numerically bigger) are
+also built, in `assignments/13-achievers-level2/` through
+`15-geometry-level2/`.

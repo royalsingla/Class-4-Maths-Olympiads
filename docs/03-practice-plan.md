@@ -46,7 +46,7 @@ curriculum and need dedicated practice.
 |---|---|
 | 11 | `assignments/11-achievers-hots/` ✅ — 2-and-3-step mixed problems pulling from every Phase‑1 topic. Then attempt **Sample Paper 1** (untimed, open-book) to find the gaps — see `sample-papers/README.md`. |
 | 12 | Attempt **Sample Papers 2–5** (Level‑1), each **strictly timed to 60 minutes**, one every 1–2 days. After each paper, log every wrong answer in an error log (topic + why it was wrong) before moving to the next paper. |
-| 13 (if qualified) | Attempt **Sample Papers 6–9** (Level‑2 track), timed, once Level 1 results come in and you've qualified for Level 2 — see below. |
+| 13 (if qualified) | Work through the 3 **Level‑2 topic assignments** (`assignments/13-achievers-level2/`, `14-reasoning-level2/`, `15-geometry-level2/`) untimed first, to rebuild each skill at the harder difficulty. Then attempt **Sample Papers 6–9** (Level‑2 track), timed, once Level 1 results come in and you've qualified for Level 2 — see below. |
 
 ### Sample paper schedule (Phase 3)
 
@@ -61,6 +61,18 @@ curriculum and need dedicated practice.
 | Sample Paper 7 | 1–2 days after Paper 6 | Timed (60 min), Level‑2 difficulty |
 | Sample Paper 8 | 1–2 days after Paper 7 | Timed (60 min), Level‑2 difficulty |
 | Sample Paper 9 | 1–2 days after Paper 8 | Timed (60 min), Level‑2 difficulty |
+
+### Level‑2 topic assignments (new)
+
+Before the Level‑2 sample papers, three dedicated harder topic worksheets
+are available, for the areas where Level 2 gets conceptually harder (not
+just bigger numbers):
+
+| Folder | Topic |
+|---|---|
+| `assignments/13-achievers-level2/` ✅ | Multi-step HOTS (working backwards, fraction-of-remainder, age/rate problems) |
+| `assignments/14-reasoning-level2/` ✅ | Compound logical reasoning (2+ stacked clues per question) |
+| `assignments/15-geometry-level2/` ✅ | Compound-shape perimeter & area (paths, frames, cut corners) |
 
 All 9 sample papers are built out (full 35 questions, 40 marks, answer key
 each) — see `sample-papers/README.md`. Papers 1–5 are Level‑1 difficulty;
@@ -83,6 +95,7 @@ Copy this checklist and tick off as you go:
 - [ ] Week 10 — Reasoning: Ranking/Direction/Calendar *(assignment ready)*
 - [ ] Week 11 — Achievers/HOTS + Sample Paper 1 *(assignment + paper ready)*
 - [ ] Week 12 — Sample Papers 2–5, timed *(Level‑1, all ready)*
+- [ ] Week 13 — Level‑2 topic assignments (Achievers, Reasoning, Geometry), if qualified *(all ready)*
 - [ ] Week 13 — Sample Papers 6–9, timed, if qualified for Level 2 *(Level‑2 track, all ready)*
 
 (The checkboxes above track *your* progress working through the plan, not
