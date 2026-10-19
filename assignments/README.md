@@ -26,6 +26,9 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `13-achievers-level2/` | **Level‑2 track** — harder, multi-step HOTS beyond Week 11, for students who've qualified Level 1 | ✅ Built |
 | `14-reasoning-level2/` | **Level‑2 track** — compound logical-reasoning puzzles stacking 2+ clues/rules, beyond Weeks 9–10 | ✅ Built |
 | `15-geometry-level2/` | **Level‑2 track** — compound-shape perimeter & area (paths, frames, cut corners), beyond Week 7 | ✅ Built |
+| `16-indian-international-numbers/` | Indian vs. International place-value systems, period names, comma placement, cross-system conversion — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built |
+| `17-indian-international-numbers-achievers/` | **Achievers/HOTS** — multi-step conversion + arithmetic, beyond Folder 16 | ✅ Built |
+| `18-indian-international-numbers-level2/` | **Level‑2 track** — crores/hundred-millions, multi-step conversions, beyond Folder 16 | ✅ Built |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
