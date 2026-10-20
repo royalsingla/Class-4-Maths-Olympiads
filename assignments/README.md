@@ -29,6 +29,8 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `16-indian-international-numbers/` | Indian vs. International place-value systems, period names, comma placement, cross-system conversion — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built |
 | `17-indian-international-numbers-achievers/` | **Achievers/HOTS** — multi-step conversion + arithmetic, beyond Folder 16 | ✅ Built |
 | `18-indian-international-numbers-level2/` | **Level‑2 track** — crores/hundred-millions, multi-step conversions, beyond Folder 16 | ✅ Built |
+| `19-subtracting-figures/` | **Figure Subtraction** reasoning puzzles (Figure 1 − Figure 2 = Figure 3) — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q, all diagram-based) |
+| `20-subtracting-figures-achievers/` | **Achievers/HOTS** — two-part subtractions plus reversed "find Figure (1)" puzzles, beyond Folder 19 | ✅ Built (15 Q, all diagram-based) |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
@@ -74,3 +76,13 @@ questions — shape-counting figures, a mirror-image puzzle (same
 guaranteed-correct transform technique as above), a balance-scale
 illustration, a grid for path-counting, a shaded-fraction figure, and a
 labelled cube net.
+
+`19-subtracting-figures/images/` and `20-subtracting-figures-achievers/images/`
+have an SVG for every question (30 total) — **Figure Subtraction** puzzles,
+where each figure is built from named parts (an outline, diagonals, a
+flap, a circle...) and Figure (2) is always drawn from a literal sub-list
+of Figure (1)'s own parts, so the correct "Figure (1) − Figure (2)"
+remainder is a guaranteed-correct set difference, not a hand-judged
+drawing. Folder 20 adds two-part subtractions and a few reversed
+puzzles (given what was subtracted and what remained, work out the
+original figure).

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="360" viewBox="0 0 522 360" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="522" height="360" fill="white"/>
+<text x="101.0" y="26" text-anchor="middle" font-size="15" fill="#16314f" font-weight="bold">Figure (1)</text>
+<rect x="41.0" y="34.0" width="120" height="120" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2" rx="6"/>
+<g transform="translate(41.0,34.0)">
+<line x1="26.7" y1="26.7" x2="93.3" y2="26.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.3" y1="26.7" x2="93.3" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.3" y1="93.3" x2="26.7" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="26.7" y1="93.3" x2="26.7" y2="26.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="26.7" y1="26.7" x2="10.0" y2="60.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="10.0" y1="60.0" x2="26.7" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.3" y1="26.7" x2="110.0" y2="60.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="110.0" y1="60.0" x2="93.3" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="26.7" y1="93.3" x2="60.0" y2="110.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="60.0" y1="110.0" x2="93.3" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="181.0" y="104.0" text-anchor="middle" font-size="34" font-weight="bold" fill="#16314f">−</text>
+<text x="261.0" y="26" text-anchor="middle" font-size="15" fill="#16314f" font-weight="bold">Figure (2)</text>
+<rect x="201.0" y="34.0" width="120" height="120" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2" rx="6"/>
+<g transform="translate(201.0,34.0)">
+<line x1="26.7" y1="26.7" x2="10.0" y2="60.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="10.0" y1="60.0" x2="26.7" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="26.7" y1="93.3" x2="60.0" y2="110.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="60.0" y1="110.0" x2="93.3" y2="93.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="341.0" y="104.0" text-anchor="middle" font-size="34" font-weight="bold" fill="#16314f">=</text>
+<text x="421.0" y="26" text-anchor="middle" font-size="15" fill="#16314f" font-weight="bold">Figure (3)</text>
+<rect x="361.0" y="34.0" width="120" height="120" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2" rx="6"/>
+<g transform="translate(361.0,34.0)">
+<text x="60.0" y="62.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#2b4c7e">?</text>
+</g>
+<text x="261.0" y="184" text-anchor="middle" font-size="14.5" fill="#16314f" font-weight="bold">Figure (2) is subtracted from Figure (1).</text>
+<text x="261.0" y="203" text-anchor="middle" font-size="14.5" fill="#16314f" font-weight="bold">Which option (A–D) shows the resulting Figure (3)?</text>
+<rect x="20.0" y="238.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(20.0,238.0)">
+<line x1="29.7" y1="24.7" x2="80.3" y2="24.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="24.7" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="75.3" x2="29.7" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="29.7" y1="75.3" x2="29.7" y2="24.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="29.7" y1="24.7" x2="17.0" y2="50.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="17.0" y1="50.0" x2="29.7" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="24.7" x2="93.0" y2="50.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.0" y1="50.0" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="75.0" y="360.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">A</text>
+<rect x="144.0" y="238.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(144.0,238.0)">
+<line x1="29.7" y1="24.7" x2="17.0" y2="50.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="17.0" y1="50.0" x2="29.7" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="29.7" y1="75.3" x2="55.0" y2="88.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="55.0" y1="88.0" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="199.0" y="360.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">B</text>
+<rect x="268.0" y="238.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(268.0,238.0)">
+<line x1="29.7" y1="24.7" x2="80.3" y2="24.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="24.7" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="75.3" x2="29.7" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="29.7" y1="75.3" x2="29.7" y2="24.7" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="80.3" y1="24.7" x2="93.0" y2="50.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.0" y1="50.0" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="323.0" y="360.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">C</text>
+<rect x="392.0" y="238.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(392.0,238.0)">
+<line x1="80.3" y1="24.7" x2="93.0" y2="50.0" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.0" y1="50.0" x2="80.3" y2="75.3" stroke="#16314f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="447.0" y="360.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">D</text>
+</svg>
