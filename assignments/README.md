@@ -31,6 +31,8 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `18-indian-international-numbers-level2/` | **Level‑2 track** — crores/hundred-millions, multi-step conversions, beyond Folder 16 | ✅ Built |
 | `19-subtracting-figures/` | **Figure Subtraction** reasoning puzzles (Figure 1 − Figure 2 = Figure 3) — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q, all diagram-based) |
 | `20-subtracting-figures-achievers/` | **Achievers/HOTS** — two-part subtractions plus reversed "find Figure (1)" puzzles, beyond Folder 19 | ✅ Built (15 Q, all diagram-based) |
+| `21-inserting-missing-numbers/` | **Inserting Missing Numbers** reasoning puzzles — number grids and pyramids with a hidden rule — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q) |
+| `22-inserting-missing-numbers-achievers/` | **Achievers/HOTS** — column-direction patterns, magic-square grids, two-step rules, number pyramids, beyond Folder 21 | ✅ Built (15 Q) |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
