@@ -33,6 +33,8 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `20-subtracting-figures-achievers/` | **Achievers/HOTS** — two-part subtractions plus reversed "find Figure (1)" puzzles, beyond Folder 19 | ✅ Built (15 Q, all diagram-based) |
 | `21-inserting-missing-numbers/` | **Inserting Missing Numbers** reasoning puzzles — number grids and pyramids with a hidden rule — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q) |
 | `22-inserting-missing-numbers-achievers/` | **Achievers/HOTS** — column-direction patterns, magic-square grids, two-step rules, number pyramids, beyond Folder 21 | ✅ Built (15 Q) |
+| `23-incomplete-pattern/` | **Incomplete Pattern** reasoning puzzles — 3×3 figure grids with a hidden rule, find the missing figure — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q, all diagram-based) |
+| `24-incomplete-pattern-achievers/` | **Achievers/HOTS** — two-axis (row + column) rules and true Latin-square grids, including questions where the missing cell isn't in the bottom-right corner, beyond Folder 23 | ✅ Built (15 Q, all diagram-based) |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
@@ -88,3 +90,16 @@ remainder is a guaranteed-correct set difference, not a hand-judged
 drawing. Folder 20 adds two-part subtractions and a few reversed
 puzzles (given what was subtracted and what remained, work out the
 original figure).
+
+`23-incomplete-pattern/images/` and `24-incomplete-pattern-achievers/images/`
+have an SVG for every question (30 total) — **Incomplete Pattern** 3×3
+figure-matrix puzzles. Every figure is generated from pure geometry
+(dot/star/line counts, regular-polygon side counts via trig, square
+scale, rotation angle, shading fraction) rather than hand-drawn, so
+each grid's rule — and the one correct missing figure — is
+guaranteed-correct by construction and independently re-verified
+against every one of the 9 cells (not just the ones shown) before
+publishing. Folder 23 uses a single column-wise rule repeated down
+every row; Folder 24 adds genuine two-axis (row **and** column) rules
+and true Latin-square grids, including a few questions where the
+missing cell isn't in the bottom-right corner.

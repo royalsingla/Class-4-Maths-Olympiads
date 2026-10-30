@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="562" viewBox="0 0 522 562" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="522" height="562" fill="white"/>
+<text x="261.0" y="24" text-anchor="middle" font-size="16" fill="#16314f" font-weight="bold">Dot count pattern (step of 2)</text>
+<rect x="117.0" y="70.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(117.0,70.0)">
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="213.0" y="70.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(213.0,70.0)">
+<circle cx="22.4" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="73.6" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="309.0" y="70.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(309.0,70.0)">
+<circle cx="17.3" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="32.6" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="48.0" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="63.4" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="78.7" cy="48.0" r="7.7" fill="#16314f"/>
+</g>
+<rect x="117.0" y="166.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(117.0,166.0)">
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="213.0" y="166.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(213.0,166.0)">
+<circle cx="22.4" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="73.6" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="309.0" y="166.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(309.0,166.0)">
+<circle cx="17.3" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="32.6" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="48.0" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="63.4" cy="48.0" r="7.7" fill="#16314f"/>
+<circle cx="78.7" cy="48.0" r="7.7" fill="#16314f"/>
+</g>
+<rect x="117.0" y="262.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(117.0,262.0)">
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="213.0" y="262.0" width="96" height="96" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(213.0,262.0)">
+<circle cx="22.4" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="48.0" cy="48.0" r="10.0" fill="#16314f"/>
+<circle cx="73.6" cy="48.0" r="10.0" fill="#16314f"/>
+</g>
+<rect x="309.0" y="262.0" width="96" height="96" fill="#eef3fb" stroke="#2b4c7e" stroke-width="2"/>
+<g transform="translate(309.0,262.0)">
+<text x="48.0" y="50.0" text-anchor="middle" dominant-baseline="central" font-size="40" font-weight="bold" fill="#2b4c7e">?</text>
+</g>
+<text x="261.0" y="386" text-anchor="middle" font-size="14.5" fill="#16314f" font-weight="bold">Look at the pattern in the 3×3 grid above.</text>
+<text x="261.0" y="405" text-anchor="middle" font-size="14.5" fill="#16314f" font-weight="bold">Which option (A–D) replaces the '?' to complete it?</text>
+<rect x="20.0" y="440.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(20.0,440.0)">
+<circle cx="18.3" cy="50.0" r="7.3" fill="#16314f"/>
+<circle cx="33.0" cy="50.0" r="7.3" fill="#16314f"/>
+<circle cx="47.7" cy="50.0" r="7.3" fill="#16314f"/>
+<circle cx="62.3" cy="50.0" r="7.3" fill="#16314f"/>
+<circle cx="77.0" cy="50.0" r="7.3" fill="#16314f"/>
+<circle cx="91.7" cy="50.0" r="7.3" fill="#16314f"/>
+</g>
+<text x="75.0" y="562.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">A</text>
+<rect x="144.0" y="440.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(144.0,440.0)">
+<circle cx="25.7" cy="50.0" r="10.0" fill="#16314f"/>
+<circle cx="55.0" cy="50.0" r="10.0" fill="#16314f"/>
+<circle cx="84.3" cy="50.0" r="10.0" fill="#16314f"/>
+</g>
+<text x="199.0" y="562.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">B</text>
+<rect x="268.0" y="440.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(268.0,440.0)">
+<circle cx="22.0" cy="50.0" r="10.0" fill="#16314f"/>
+<circle cx="44.0" cy="50.0" r="10.0" fill="#16314f"/>
+<circle cx="66.0" cy="50.0" r="10.0" fill="#16314f"/>
+<circle cx="88.0" cy="50.0" r="10.0" fill="#16314f"/>
+</g>
+<text x="323.0" y="562.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">C</text>
+<rect x="392.0" y="440.0" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(392.0,440.0)">
+<circle cx="19.8" cy="50.0" r="8.8" fill="#16314f"/>
+<circle cx="37.4" cy="50.0" r="8.8" fill="#16314f"/>
+<circle cx="55.0" cy="50.0" r="8.8" fill="#16314f"/>
+<circle cx="72.6" cy="50.0" r="8.8" fill="#16314f"/>
+<circle cx="90.2" cy="50.0" r="8.8" fill="#16314f"/>
+</g>
+<text x="447.0" y="562.0" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">D</text>
+</svg>
