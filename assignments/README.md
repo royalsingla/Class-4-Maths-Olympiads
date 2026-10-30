@@ -35,6 +35,8 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `22-inserting-missing-numbers-achievers/` | **Achievers/HOTS** — column-direction patterns, magic-square grids, two-step rules, number pyramids, beyond Folder 21 | ✅ Built (15 Q) |
 | `23-incomplete-pattern/` | **Incomplete Pattern** reasoning puzzles — 3×3 figure grids with a hidden rule, find the missing figure — identified as a gap against the school's own syllabus, not yet slotted into the 12-week schedule | ✅ Built (15 Q, all diagram-based) |
 | `24-incomplete-pattern-achievers/` | **Achievers/HOTS** — two-axis (row + column) rules and true Latin-square grids, including questions where the missing cell isn't in the bottom-right corner, beyond Folder 23 | ✅ Built (15 Q, all diagram-based) |
+| `25-fraction-interpretation/` | **Fraction Interpretation** — shaded-area fractions, fraction of a group of discrete objects, fraction of a quantity, mixed-number ↔ improper-fraction conversion — identified as a depth gap beyond Week 4 (`04-fractions-decimals/`), not yet slotted into the 12-week schedule | ✅ Built (15 Q) |
+| `26-fraction-interpretation-achievers/` | **Achievers/HOTS** — multi-step fraction-of-quantity word problems, unlike-denominator comparison/addition, mixed-number arithmetic, and visual equivalence/misconception-trap diagrams, beyond Folder 25 | ✅ Built (15 Q) |
 
 Folders `01`–`11` are the core 12-week plan, built in the same two-file
 (`assignment.md` + `answer-key.md`) shape, 15 questions each — except
@@ -103,3 +105,11 @@ publishing. Folder 23 uses a single column-wise rule repeated down
 every row; Folder 24 adds genuine two-axis (row **and** column) rules
 and true Latin-square grids, including a few questions where the
 missing cell isn't in the bottom-right corner.
+
+`25-fraction-interpretation/images/` and `26-fraction-interpretation-achievers/images/`
+have an SVG for every diagram-based question — rectangle/grid and pie-chart
+area models, groups of discrete shapes (including mixed shape-type groups
+for "fraction of a category" questions), and a few "which diagram is
+correct" questions with 4 candidate diagrams as the answer options,
+including the classic unequal-parts misconception trap. All partitions
+are computed geometrically (exact trig for pie sectors), never hand-drawn.

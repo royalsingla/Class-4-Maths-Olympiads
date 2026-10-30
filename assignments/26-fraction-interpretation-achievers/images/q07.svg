@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="170" viewBox="0 0 260 170" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="260" height="170" fill="white"/>
+<rect x="10" y="10" width="240" height="150" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2" rx="6"/>
+<g transform="translate(10,10)">
+<circle cx="23.8" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="51.2" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="78.8" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="106.2" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="133.8" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="161.2" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="188.8" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="216.2" cy="42.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="23.8" cy="107.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<circle cx="51.2" cy="107.5" r="8.5" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="70.2" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="97.7" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="125.2" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="152.7" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="180.2" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+<rect x="207.7" y="99.0" width="17.1" height="17.1" fill="white" stroke="#16314f" stroke-width="2.5"/>
+</g>
+</svg>
